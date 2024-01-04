@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "F5fDKIj8rfK0KZIKJnpuZpQ5Gp7K4Ip+S871YxvBh78=",
+  "Source": "chattest",
+  "BasePath": "_content/chattest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "chattest/wwwroot",
+      "Source": "chattest",
+      "ContentRoot": "/Users/Shinto/Dotnet Projects/chattest/wwwroot/",
+      "BasePath": "_content/chattest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Shinto/Dotnet Projects/chattest/wwwroot/css/site.css",
+      "SourceId": "chattest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Shinto/Dotnet Projects/chattest/wwwroot/",
+      "BasePath": "_content/chattest",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/Shinto/Dotnet Projects/chattest/wwwroot/index.html",
+      "SourceId": "chattest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Shinto/Dotnet Projects/chattest/wwwroot/",
+      "BasePath": "_content/chattest",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
